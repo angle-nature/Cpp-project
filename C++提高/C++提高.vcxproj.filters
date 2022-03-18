@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\模板">
+      <UniqueIdentifier>{502f1965-023c-445a-99b1-5700f1e8f321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\STL初识">
+      <UniqueIdentifier>{4596d1cf-6f42-4459-98f3-3b84b5a20c91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\STL常用容器">
+      <UniqueIdentifier>{eeec840b-48c5-4239-a130-073c641f9c5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\STL常用容器\string容器">
+      <UniqueIdentifier>{150075c7-3bad-4ee4-8b83-221fb6066289}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\STL常用容器\vector容器">
+      <UniqueIdentifier>{12a027e4-2413-4d49-82a4-cef209fb8883}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\STL常用容器\deque容器">
+      <UniqueIdentifier>{1dc86387-5487-4072-964b-169537715537}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\STL常用容器\栈和队列">
+      <UniqueIdentifier>{13cb51ba-3abb-4107-92ad-3a028f2be332}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\STL常用容器\list容器">
+      <UniqueIdentifier>{2c51edac-bc8d-428a-aec5-5a1c5d2443de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\函数对象">
+      <UniqueIdentifier>{181a3041-3074-4ac2-8152-0aaa844a28b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\STL常用算法">
+      <UniqueIdentifier>{791b4f9e-658c-4817-aca7-a387c44b34b8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01 函数模板语法.cpp">
+      <Filter>源文件\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="02 函数模板案例.cpp">
+      <Filter>源文件\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="03 普通函数与函数模板调用规则.cpp">
+      <Filter>源文件\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="04 函数模板的局限性.cpp">
+      <Filter>源文件\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="05 类模板对象做函数参数.cpp">
+      <Filter>源文件\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="06 类模板与继承.cpp">
+      <Filter>源文件\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="07 类模板成员函数类外实现.cpp">
+      <Filter>源文件\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="08 类模板分文件编写.cpp">
+      <Filter>源文件\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.cpp">
+      <Filter>源文件\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="Person.hpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09 类模板与友元.cpp">
+      <Filter>源文件\模板</Filter>
+    </ClCompile>
+    <ClCompile Include="01 STL初识-vector存放内置数据类型.cpp">
+      <Filter>源文件\STL初识</Filter>
+    </ClCompile>
+    <ClCompile Include="02 STL初识-vector存放自定义数据类型.cpp">
+      <Filter>源文件\STL初识</Filter>
+    </ClCompile>
+    <ClCompile Include="03 容器嵌套.cpp">
+      <Filter>源文件\STL初识</Filter>
+    </ClCompile>
+    <ClCompile Include="01 string容器-构造函数.cpp">
+      <Filter>源文件\STL常用容器\string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="02 string容器-赋值操作.cpp">
+      <Filter>源文件\STL常用容器\string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="03 string容器-字符串拼接.cpp">
+      <Filter>源文件\STL常用容器\string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="04 string容器-字符串查找和替换.cpp">
+      <Filter>源文件\STL常用容器\string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="05 string容器-字符串比较.cpp">
+      <Filter>源文件\STL常用容器\string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="06 string容器-字符获取.cpp">
+      <Filter>源文件\STL常用容器\string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="07 string容器-插入和删除.cpp">
+      <Filter>源文件\STL常用容器\string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="08 string容器-子串.cpp">
+      <Filter>源文件\STL常用容器\string容器</Filter>
+    </ClCompile>
+    <ClCompile Include="01 vector容器-构造函数.cpp">
+      <Filter>源文件\STL常用容器\vector容器</Filter>
+    </ClCompile>
+    <ClCompile Include="02 vector容器-赋值操作.cpp">
+      <Filter>源文件\STL常用容器\vector容器</Filter>
+    </ClCompile>
+    <ClCompile Include="03 vector容器-容量和大小.cpp">
+      <Filter>源文件\STL常用容器\vector容器</Filter>
+    </ClCompile>
+    <ClCompile Include="04 vector容器-插入和删除.cpp">
+      <Filter>源文件\STL常用容器\vector容器</Filter>
+    </ClCompile>
+    <ClCompile Include="05 vector容器-数据存取.cpp">
+      <Filter>源文件\STL常用容器\vector容器</Filter>
+    </ClCompile>
+    <ClCompile Include="06 vector容器-互换容器.cpp">
+      <Filter>源文件\STL常用容器\vector容器</Filter>
+    </ClCompile>
+    <ClCompile Include="07 vector容器-预留空间.cpp">
+      <Filter>源文件\STL常用容器\vector容器</Filter>
+    </ClCompile>
+    <ClCompile Include="01 deque容器-构造函数.cpp">
+      <Filter>源文件\STL常用容器\deque容器</Filter>
+    </ClCompile>
+    <ClCompile Include="02 deque容器-赋值操作.cpp">
+      <Filter>源文件\STL常用容器\deque容器</Filter>
+    </ClCompile>
+    <ClCompile Include="03 deque容器-容器大小.cpp">
+      <Filter>源文件\STL常用容器\deque容器</Filter>
+    </ClCompile>
+    <ClCompile Include="04 deque容器-插入和删除.cpp">
+      <Filter>源文件\STL常用容器\deque容器</Filter>
+    </ClCompile>
+    <ClCompile Include="05 deque容器-数据存取.cpp">
+      <Filter>源文件\STL常用容器\deque容器</Filter>
+    </ClCompile>
+    <ClCompile Include="06 deque容器-排序操作.cpp">
+      <Filter>源文件\STL常用容器\deque容器</Filter>
+    </ClCompile>
+    <ClCompile Include="stack容器-常用接口.cpp">
+      <Filter>源文件\STL常用容器\栈和队列</Filter>
+    </ClCompile>
+    <ClCompile Include="queue容器-常用接口.cpp">
+      <Filter>源文件\STL常用容器\栈和队列</Filter>
+    </ClCompile>
+    <ClCompile Include="01 list容器-构造函数.cpp">
+      <Filter>源文件\STL常用容器\list容器</Filter>
+    </ClCompile>
+    <ClCompile Include="02 list容器-赋值与交换.cpp">
+      <Filter>源文件\STL常用容器\list容器</Filter>
+    </ClCompile>
+    <ClCompile Include="03 list容器-大小操作.cpp">
+      <Filter>源文件\STL常用容器\list容器</Filter>
+    </ClCompile>
+    <ClCompile Include="04 list容器-插入和删除.cpp">
+      <Filter>源文件\STL常用容器\list容器</Filter>
+    </ClCompile>
+    <ClCompile Include="05 list容器-数据存取.cpp">
+      <Filter>源文件\STL常用容器\list容器</Filter>
+    </ClCompile>
+    <ClCompile Include="06 list容器-反转与排序.cpp">
+      <Filter>源文件\STL常用容器\list容器</Filter>
+    </ClCompile>
+    <ClCompile Include="01 函数对象.cpp">
+      <Filter>源文件\函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="02 谓词.cpp">
+      <Filter>源文件\函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="03 内建函数对象-算术运算.cpp">
+      <Filter>源文件\函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="04 内建函数对象-关系运算.cpp">
+      <Filter>源文件\函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="05 内建函数对象-逻辑运算.cpp">
+      <Filter>源文件\函数对象</Filter>
+    </ClCompile>
+    <ClCompile Include="01 常用算法-for_each.cpp">
+      <Filter>源文件\STL常用算法</Filter>
+    </ClCompile>
+    <ClCompile Include="02 常用算法-transform.cpp">
+      <Filter>源文件\STL常用算法</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Person.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

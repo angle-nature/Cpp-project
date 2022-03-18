@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\02第二次作业">
+      <UniqueIdentifier>{e4324a44-627c-4dbf-a149-0a28321932ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\01第一次作业">
+      <UniqueIdentifier>{6bc65e0d-c3d5-4e2d-94d9-5a64cde4d26d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03第三次作业">
+      <UniqueIdentifier>{3871ab03-04ac-4033-9b32-9609d2e956d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\复习题">
+      <UniqueIdentifier>{890ca763-bd5f-4ef7-938f-189b8fbe6f1b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01.cpp">
+      <Filter>源文件\01第一次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="02.cpp">
+      <Filter>源文件\01第一次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="03.cpp">
+      <Filter>源文件\01第一次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="05.cpp">
+      <Filter>源文件\01第一次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="04.cpp">
+      <Filter>源文件\01第一次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="06.cpp">
+      <Filter>源文件\01第一次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="01 求阶乘.cpp">
+      <Filter>源文件\02第二次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="02 组合数问题.cpp">
+      <Filter>源文件\02第二次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="03 学生信息排序.cpp">
+      <Filter>源文件\02第二次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="04 约瑟夫问题.cpp">
+      <Filter>源文件\02第二次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="01 sutdent类.cpp">
+      <Filter>源文件\03第三次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="03 整型数组类.cpp">
+      <Filter>源文件\03第三次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="02 CTciangle类.cpp">
+      <Filter>源文件\03第三次作业</Filter>
+    </ClCompile>
+    <ClCompile Include="IntArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="高斯消元法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="01MyClock.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="02Circle.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="05IntArray.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="04Complex.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="06Cat.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="06继承多态.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="07Shape.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="08Circle.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="09Student.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="10Person.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+    <ClCompile Include="万年历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C万年历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.cpp">
+      <Filter>源文件\复习题</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

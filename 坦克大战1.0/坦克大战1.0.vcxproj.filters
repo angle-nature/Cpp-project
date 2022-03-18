@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\blast2.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\blast3.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\blast4.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\blast5.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\blast6.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\blast7.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\blast8.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\enemy_tank_right.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\enemy_tank_right.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\enemy_tank_up.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\enemy_tank_up.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\gameover.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\home.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\illustrate.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\logo.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\p2tankD.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\p2tankL.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\p2tankR.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\p2tankU.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\tank_down.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\tank_left.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\tank_right.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\tank_up.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\wall1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\wall2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\blast1.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\enemy_tank_left.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="D:\BaiduNetdiskDownload\坦克大战素材\enemy_tank_down.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="D:\BaiduNetdiskDownload\坦克大战素材\boom.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="D:\BaiduNetdiskDownload\坦克大战素材\hit.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="D:\BaiduNetdiskDownload\坦克大战素材\paoji.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="D:\BaiduNetdiskDownload\坦克大战素材\background.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Map.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tank.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Frame.h">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Frame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayGame.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Map.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tank.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Direction.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
